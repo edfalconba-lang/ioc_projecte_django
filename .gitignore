@@ -1,0 +1,9 @@
+#No volem pujar base de dadesdel projecte
+db.sqlite3
+*.sqlite3
+
+#No pujarem l'entorn virtual
+venv_django5/
+
+#No pujare la cache de python
+__pycache__/
